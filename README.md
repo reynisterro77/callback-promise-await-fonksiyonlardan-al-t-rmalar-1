@@ -1,0 +1,1 @@
+# callback-promise-await-fonksiyonlardan-al-t-rmalar-1
